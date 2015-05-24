@@ -18,6 +18,7 @@ Zespolone::Zespolone(Zespolone &z)
     i=z.i;
 }
 
+// moduł liczby zespolonej
 float Zespolone::modul()
 {
     float modul;
